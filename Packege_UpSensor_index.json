@@ -19,7 +19,7 @@
           "architecture": "UpSensor", 
           "archiveFileName": "Upsensor_Boards-Boards.zip", 
           "boards": [
-            {"name": "UpSensor 16MB board"}, 
+            {"name": "UpSensor 16MB board"} ], 
           "toolsDependencies": [
             {
               "packager": "esp32",
@@ -72,7 +72,7 @@
               "version": "3.0.0-gnu12-dc7f933"
             }
           ]
-        },
+        }
       ], 
       "email": "upsensor@upsensor.com", 
       "name": "UpSensor"
