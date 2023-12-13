@@ -11,7 +11,7 @@
           "category": "UpSensor", 
           "name": "UpSensor Boards", 
           "url": "https://github.com/Silvxo/Upsensor_Boards/archive/refs/tags/Boards.zip", 
-          "checksum": "SHA-256:8fc46a9b9df74762115ed0ce73d70def8ea2cfef44e108bb50ad8dc8817fe1df", 
+          "checksum": "SHA-256:3a8fcfc64c3a254313caaf4bf2409163bfe95d4380e9aec79c2d9836545d42ae", 
           "help": {
             "online": ""
           }, 
