@@ -10,7 +10,7 @@
       {
           "category": "UpSensor", 
           "name": "UpSensor Boards", 
-          "url": "https://drive.google.com/file/d/1mPKOXq6ON_85BbSoE8lt-aaikurxmvVc/view?usp=drive_link", 
+          "url": "https://github.com/Silvxo/Upsensor_Boards/archive/refs/tags/Boards.zip", 
           "checksum": "SHA-256:8fc46a9b9df74762115ed0ce73d70def8ea2cfef44e108bb50ad8dc8817fe1df", 
           "help": {
             "online": ""
